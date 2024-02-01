@@ -344,6 +344,7 @@ feature-row-col-card:nth-child(1) {
     width: 100%;
     height: 100vh;
     background-color: white;
+    display: none;
 }
 
 .header-redponsive-top{
